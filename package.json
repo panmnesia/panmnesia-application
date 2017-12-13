@@ -1,0 +1,18 @@
+{
+  "name": "panmnesia-application",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@EternalDeiwos",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.12.6"
+  },
+  "dependencies": {
+    "panmnesia-server": "0.0.1"
+  }
+}
